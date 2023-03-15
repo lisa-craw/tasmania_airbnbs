@@ -1,6 +1,6 @@
-## This is a script for visualising data on properties currently available for short-term rental through AirBnb in Tasmania. 
+## For visualising data on properties currently available for short-term rental through AirBnb in Tasmania. 
 
-Hobart is currently experiencing a housing crisis that is massively exacerbated by the conversion of long-term rental properties into short-stay accommodation. The Hobart City Council must approve all applications to convert to short-stay accommodation. 
+Hobart is currently experiencing a housing crisis that is massively exacerbated by the conversion of long-term rental properties into short-stay accommodation. 
 
 ## Data
 
