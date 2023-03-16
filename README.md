@@ -6,5 +6,5 @@ Hobart is currently experiencing a housing crisis that is massively exacerbated 
 
 Data are open source, provided by the fantastic [Inside Airbnb](http://insideairbnb.com). If you appreciate their work, [**DONATE HERE!**](http://insideairbnb.com/donate)
 
-These scripts use the summary information data, listings.csv, for the last twelve months in Tasmania. Download the data [here.](http://insideairbnb.com/get-the-data)
+These scripts use the detailed listings data, listings.csv, for the last twelve months in Tasmania (not the summary data). Download the data [here.](http://insideairbnb.com/get-the-data)
 
