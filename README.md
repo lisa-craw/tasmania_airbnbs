@@ -12,5 +12,5 @@ These scripts use the detailed listings data, listings.csv, for the last twelve 
 
 The script will save a simple overview map with all locations plotted, and an html file with an interactive map. Markers are sized and coloured according to the price per bedroom (hover over the marker to see the price)
 
-![image](https://user-images.githubusercontent.com/78063188/225503255-fe3ec1b5-aacd-4f9a-b3f4-d9d287975d4f.png)
+![image](https://user-images.githubusercontent.com/78063188/225504046-f7a90695-318b-4867-a6ae-cad458da4953.png)
 
