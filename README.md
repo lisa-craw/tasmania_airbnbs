@@ -8,3 +8,9 @@ Data are open source, provided by the fantastic [Inside Airbnb](http://insideair
 
 These scripts use the detailed listings data, listings.csv, for the last twelve months in Tasmania (not the summary data). Download the data [here.](http://insideairbnb.com/get-the-data)
 
+## Output
+
+The script will save a simple overview map with all locations plotted, and an html file with an interactive map. Markers are sized and coloured according to the price per bedroom (hover over the marker to see the price)
+
+![image](https://user-images.githubusercontent.com/78063188/225503255-fe3ec1b5-aacd-4f9a-b3f4-d9d287975d4f.png)
+
